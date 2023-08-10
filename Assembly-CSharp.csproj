@@ -65,6 +65,7 @@
     <Compile Include="Assets\Scripts\DeliveryManagerSingleUI.cs" />
     <Compile Include="Assets\Scripts\RecipeListSO.cs" />
     <Compile Include="Assets\Scripts\ProgressBarUI.cs" />
+    <Compile Include="Assets\Scripts\StoveCounterSound.cs" />
     <Compile Include="Assets\Scripts\IHasProgress.cs" />
     <Compile Include="Assets\Scripts\ContainerCounter.cs" />
     <Compile Include="Assets\Scripts\PlateIconSingleUI.cs" />
@@ -76,11 +77,14 @@
     <Compile Include="Assets\Scripts\PlateIconsUI.cs" />
     <Compile Include="Assets\Scripts\PlateCompleteVisual.cs" />
     <Compile Include="Assets\Scripts\StoveCounterVisual.cs" />
+    <Compile Include="Assets\Scripts\PlayerSounds.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\PlayerAnimator.cs" />
     <Compile Include="Assets\Scripts\PlatesCounter.cs" />
+    <Compile Include="Assets\Scripts\AudioClipRefsSO.cs" />
     <Compile Include="Assets\Scripts\GameInput.cs" />
     <Compile Include="Assets\Scripts\StoveCounter.cs" />
+    <Compile Include="Assets\Scripts\SoundManager.cs" />
     <Compile Include="Assets\Scripts\ContainerCounterVisual.cs" />
     <Compile Include="Assets\Scripts\ClearCounter.cs" />
     <Compile Include="Assets\Scripts\DeliveryManagerUI.cs" />
