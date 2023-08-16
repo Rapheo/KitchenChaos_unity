@@ -72,6 +72,7 @@
     <Compile Include="Assets\Scripts\ContainerCounter.cs" />
     <Compile Include="Assets\Scripts\PlateIconSingleUI.cs" />
     <Compile Include="Assets\Scripts\PlateKitchenObject.cs" />
+    <Compile Include="Assets\Scripts\Loading\LoaderCallBack.cs" />
     <Compile Include="Assets\Scripts\KitchenObjectSO.cs" />
     <Compile Include="Assets\Scripts\LookAtCamera.cs" />
     <Compile Include="Assets\Scripts\BurningRecipeSO.cs" />
@@ -84,6 +85,7 @@
     <Compile Include="Assets\Scripts\PlayerAnimator.cs" />
     <Compile Include="Assets\Scripts\PlatesCounter.cs" />
     <Compile Include="Assets\Scripts\AudioClipRefsSO.cs" />
+    <Compile Include="Assets\Scripts\MainManu\MainManuUI.cs" />
     <Compile Include="Assets\Scripts\GameInput.cs" />
     <Compile Include="Assets\Scripts\StoveCounter.cs" />
     <Compile Include="Assets\Scripts\SoundManager.cs" />
@@ -101,6 +103,7 @@
     <Compile Include="Assets\Scripts\CuttingRecipeSO.cs" />
     <Compile Include="Assets\Scripts\FryingRecipeSO.cs" />
     <Compile Include="Assets\Scripts\DeliveryCounter.cs" />
+    <Compile Include="Assets\Scripts\Loading\Loader.cs" />
     <Compile Include="Assets\Scripts\KitchenGameManager.cs" />
   </ItemGroup>
   <ItemGroup>

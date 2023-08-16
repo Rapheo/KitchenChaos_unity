@@ -1,0 +1,23 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.SceneManagement;
+using UnityEngine.UI;
+
+public class MainManuUI : MonoBehaviour {
+
+    [SerializeField] private Button playButton;
+    [SerializeField] private Button quitButton;
+
+    private void Awake() {
+        playButton.onClick.AddListener(() => {
+            // Lamda Expration
+            Loader.Load(Loader.Scene.GameScene);
+        });
+
+        quitButton.onClick.AddListener(() => {
+            Application.Quit();
+        });
+    }
+
+}
