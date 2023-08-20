@@ -66,6 +66,7 @@
     <Compile Include="Assets\Scripts\GameStartCountdownUI.cs" />
     <Compile Include="Assets\Scripts\DeliveryManagerSingleUI.cs" />
     <Compile Include="Assets\Scripts\RecipeListSO.cs" />
+    <Compile Include="Assets\Scripts\ResetStaticDataManager.cs" />
     <Compile Include="Assets\Scripts\ProgressBarUI.cs" />
     <Compile Include="Assets\Scripts\StoveCounterSound.cs" />
     <Compile Include="Assets\Scripts\IHasProgress.cs" />
@@ -103,6 +104,7 @@
     <Compile Include="Assets\Scripts\CuttingRecipeSO.cs" />
     <Compile Include="Assets\Scripts\FryingRecipeSO.cs" />
     <Compile Include="Assets\Scripts\DeliveryCounter.cs" />
+    <Compile Include="Assets\Scripts\GamePauseUI.cs" />
     <Compile Include="Assets\Scripts\Loading\Loader.cs" />
     <Compile Include="Assets\Scripts\KitchenGameManager.cs" />
   </ItemGroup>
