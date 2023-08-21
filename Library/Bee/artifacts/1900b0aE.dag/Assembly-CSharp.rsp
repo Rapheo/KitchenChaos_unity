@@ -404,6 +404,8 @@
 "Assets/Scripts/Loading/LoaderCallBack.cs"
 "Assets/Scripts/LookAtCamera.cs"
 "Assets/Scripts/MainManu/MainManuUI.cs"
+"Assets/Scripts/MusicManager.cs"
+"Assets/Scripts/OptionsUI.cs"
 "Assets/Scripts/PlateCompleteVisual.cs"
 "Assets/Scripts/PlateIconSingleUI.cs"
 "Assets/Scripts/PlateIconsUI.cs"

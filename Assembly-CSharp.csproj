@@ -59,7 +59,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\SelectedCounterVisual.cs" />
+    <Compile Include="Assets\Scripts\MusicManager.cs" />
     <Compile Include="Assets\Scripts\RecipeSO.cs" />
+    <Compile Include="Assets\Scripts\OptionsUI.cs" />
     <Compile Include="Assets\Settings\PlayerInputActions.cs" />
     <Compile Include="Assets\Scripts\CuttingrCounterVisual.cs" />
     <Compile Include="Assets\Scripts\GameoverUI.cs" />
