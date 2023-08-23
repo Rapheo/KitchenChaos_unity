@@ -119,7 +119,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 19
+  controlID: 89
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -199,7 +199,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 30
+  controlID: 53
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -723,9 +723,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 822.5359, y: 489.36, z: -258.9312}
+    m_Target: {x: 927.07135, y: 572.79565, z: 291.46512}
     speed: 2
-    m_Value: {x: 822.5359, y: 489.36, z: -258.9312}
+    m_Value: {x: 927.07135, y: 572.79565, z: 291.46512}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -771,20 +771,20 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.046791773, y: 0.0071888533, z: -0.00033711136, w: -0.99888074}
+    m_Target: {x: -0.0347965, y: 0.019183543, z: -0.0006693465, w: -0.999218}
     speed: 2
-    m_Value: {x: -0.04679168, y: 0.007188839, z: -0.0003371107, w: -0.9988787}
+    m_Value: {x: -0.034796227, y: 0.019183392, z: -0.00066934124, w: -0.9992101}
   m_Size:
-    m_Target: 342.41928
+    m_Target: 707.5892
     speed: 2
-    m_Value: 342.41928
+    m_Value: 707.5892
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
   m_CameraSettings:
-    m_Speed: 1
-    m_SpeedNormalized: 0.5
+    m_Speed: 1.0249
+    m_SpeedNormalized: 0.51
     m_SpeedMin: 0.01
     m_SpeedMax: 2
     m_EasingEnabled: 1
@@ -1555,10 +1555,10 @@ MonoBehaviour:
     m_SaveData: []
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: e68affff20f8ffff06fbffffc86f000038710000
+      scrollPos: {x: 0, y: 404}
+      m_SelectedIDs: c66d0000
+      m_LastClickedID: 28102
+      m_ExpandedIDs: 4c46ffff945bffffd65cffff06fbffffc66d0000626e0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1644,7 +1644,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 2c100000
     m_LastClickedID: 4140
-    m_ExpandedIDs: 000000000c6c0000266f0000286f00002a6f00002c6f00002e6f0000306f0000326f0000346f0000366f0000386f00003a6f00003c6f0000
+    m_ExpandedIDs: 00000000106c00006c6f000052720000ea790000ec790000ee790000f0790000f2790000f4790000f6790000f8790000fa790000fc790000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1670,23 +1670,23 @@ MonoBehaviour:
       m_ResourceFile: 
   m_AssetTreeState:
     scrollPos: {x: 0, y: 624.2}
-    m_SelectedIDs: c86f0000
+    m_SelectedIDs: b4beffff
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff000000000c6c0000266f0000286f00002a6f00002c6f00002e6f0000306f0000326f0000346f0000366f0000386f00003a6f00003c6f0000
+    m_ExpandedIDs: ffffffff00000000106c00006c6f000052720000ea790000ec790000ee790000f0790000f2790000f4790000f6790000f8790000fa790000fc790000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: MusicManager
-      m_OriginalName: MusicManager
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 31572
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 10}
     m_SearchString: 
@@ -1697,8 +1697,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: c86f0000
-    m_LastClickedInstanceID: 28616
+    m_SelectedInstanceIDs: b4beffff
+    m_LastClickedInstanceID: -16716
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
@@ -1798,7 +1798,7 @@ MonoBehaviour:
     m_SaveData: []
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: 28616
+  m_LastSelectedObjectID: 28102
 --- !u!114 &21
 MonoBehaviour:
   m_ObjectHideFlags: 52
